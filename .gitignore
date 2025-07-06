@@ -1,0 +1,18 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Node.js dependencies (if you use tools like Prettier)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Log files
+*.log
+
+# Draft articles
+drafts/
