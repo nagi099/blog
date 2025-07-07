@@ -1,0 +1,288 @@
+冬コミ(C105)新刊としてポケモンLEGENDSアルセウスの小説同人誌を作りました。  
+その内容の紹介と組版・特殊装丁についての記事です。前回記事で冬コミ目指すとは言いましたが、本当に出せるとは正直思っていなかった……
+
+前回↓
+[「光」の在り処——『遙かなる時空の中で』における「天の白虎」と人間への信頼について][wherethelightis]
+
+[wherethelightis]: WhereTheLightIs.md
+
+**目次**
+- [内容](#内容)
+- [本の仕様](#本の仕様)
+  - [印刷所](#印刷所)
+  - [組版](#組版)
+  - [装丁](#装丁)
+    - [コンセプト](#コンセプト)
+    - [表紙と遊び紙](#表紙と遊び紙)
+    - [天アンカット](#天アンカット)
+  - [その他](#その他)
+    - [サイズ比較](#サイズ比較)
+    - [扉](#扉)
+    - [エピグラフ](#エピグラフ)
+    - [奥付と検印](#奥付と検印)
+- [おまけ(C105当日)](#おまけc105当日)
+
+
+### 内容
+LEGENDSアルセウスの二次創作です。メインキャラはショウ(主人公の方)とウォロですが、執筆の動機的にはウォロのための小説です。**私はウォロに共感している人間**なので。
+
+ネタバレしない程度(したところで大した意味はないのですが)に内容を説明すると、過酷で不条理な世界で生きるための覚悟についての話です。失楽園します。  
+ウォロを救うことで自分自身を救いたかった(どちらもまだ完全ではない)。
+
+ほぼ思想の話しかしていないため非常に読者を選びます。[1つ前の記事][wherethelightis]もそうですが、怪文書以外の文章を書く気がない(面倒くさがり)。  
+pixivに置いてある1話目(またはサンプル)を読めば合う合わないは分かると思います。
+
+Web再録↓
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.pixiv.net%2Fnovel%2Fseries%2F10513019" 
+title="「光を灯すために」/「流雪」のシリーズ [pixiv]" 
+class="embed-card embed-webcard" 
+scrolling="no" 
+frameborder="0" 
+style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
+loading="lazy">
+</iframe>
+<cite>
+<a href="https://www.pixiv.net/novel/series/10513019">www.pixiv.net</a>
+</cite>
+
+同人誌通販↓
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fkazahanalib.booth.pm%2Fitems%2F6394338" 
+title="光を灯すために - 風花文庫 - BOOTH" 
+class="embed-card embed-webcard" 
+scrolling="no" 
+frameborder="0" 
+style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
+loading="lazy">
+</iframe>
+<cite>
+<a href="https://kazahanalib.booth.pm/items/6394338">kazahanalib.booth.pm</a>
+</cite>
+
+
+### 本の仕様
+
+#### 印刷所
+**ブロス**です。この辺を参考にしました。
+
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fumaisulog.com%2Fprint-for-novel%2F" 
+title="小説向き！おすすめ同人印刷所9選【文庫／新書／B6／A5サイズ】" 
+class="embed-card embed-webcard" 
+scrolling="no" 
+frameborder="0" 
+style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
+loading="lazy">
+</iframe>
+<cite>
+<a href="https://umaisulog.com/print-for-novel/">umaisulog.com</a>
+</cite>
+
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Fkisaki_dojin%2Fn%2Fn68e159323684" 
+title="小説同人誌を初めて作る方へのアドバイス集｜紀咲" 
+class="embed-card embed-webcard" 
+scrolling="no" 
+frameborder="0" 
+style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
+loading="lazy">
+</iframe>
+<cite>
+<a href="https://note.com/kisaki_dojin/n/n68e159323684">note.com</a>
+</cite>
+
+同人誌を作るのは初めてだったので比較対象がないのですが、特殊装丁や原稿作成など細々と相談に乗っていただけてよかったです。
+
+
+#### 組版
+**B6 1段組**です。2段組みが嫌いなので1段。  
+余白設定は以下の通りです。
+
+- 天：24 mm
+- 地：21.5 mm
+- ノド：19.5 mm
+- 小口：15 mm
+
+文字設定について。
+
+- サイズ：14 Q (10 pt弱)
+- 行間：10 H
+- 行文字数：39
+- 行数：16
+- 和文フォント：筑紫明朝
+- 欧文フォント：筑紫Aオールド明朝
+
+![本文](..\images\binding_enlighten\honbun.jpg)
+
+行間は文字サイズの1.7~1.8倍を目安に設定しました。文字サイズは割と大きめだったので13 Qの方がよかったかなと思います。  
+ギチギチに詰めたい場合は行数を1行、行文字数を2~4文字程度なら増やせそうです。読みやすさのためにはほどほどにした方がいいと思いますが。
+
+柱の章タイトルは**筑紫明朝** 9.5 Q、ノンブルは**High Tower Text** 13 Qです。中公新書みたいなオールドスタイル数字のフォントを探しました。タイトル部分と比べてノンブルの線が太いようにも感じるので、次があったら文字サイズを変えるか線の細めなフォントを使うか検討すると思います。
+
+組版の決定にあたっては、以下のページと手持ちの本の実測結果を参考にしました。
+
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Ftono_yoru%2Fn%2Fncbb24eb1b025" 
+title="B6小説同人誌を推したい／組版・小ネタ集・制作レポ｜よる" 
+class="embed-card embed-webcard" 
+scrolling="no" 
+frameborder="0" 
+style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
+loading="lazy">
+</iframe>
+<cite>
+<a href="https://note.com/tono_yoru/n/ncbb24eb1b025">note.com</a>
+</cite>
+
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fprivatter.net%2Fp%2F1684256" 
+title="小説本をつくるなら - Privatter" 
+class="embed-card embed-webcard" 
+scrolling="no" 
+frameborder="0" 
+style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
+loading="lazy">
+</iframe>
+<cite>
+<a href="https://privatter.net/p/1684256">privatter.net</a>
+</cite>
+
+
+#### 装丁
+
+##### コンセプト
+タイトルにもある<b>「光」</b>です。特にギンガ団の**星々**とヒスイの**夜明け**、そして**知識という光**です。
+
+そのうちフランス装かハードカバーに再装丁したいので見返しは無しにしました。その方がやりやすいかなと。
+
+
+##### 表紙と遊び紙
+
+<figure alt="表1, 4">
+<img src="..\images\binding_enlighten\hyou1.jpg" width=49%/> <img src="..\images\binding_enlighten\hyou4.jpg" width=49%/>
+<figcaption>表1, 4</figcaption>
+</figure>
+
+<figure>
+<img src="..\images\binding_enlighten\se.jpg" alt="背表紙" />
+<figcaption>背表紙</figcaption>
+</figure>
+
+- ミランダ170kg黒
+- マットPP
+- シルバー単色印刷
+- 箔押し2箇所 (金・黒)
+
+表紙用紙はみんな大好き(推定)ミランダです。隣のサークルもミランダだった。  
+**ミランダ＋マットPP**だと外側のキラキラを抑えつつ内側(表2, 3)をキラキラにできると読んだので、マットPPを付けました。暗闇っぽくしたかったのです。写真でも粒子が見えると思いますが、角度によっては**控えめにキラキラ**します。
+
+表1と背のタイトル部分は艶あり金の箔押しです。艶消しの金箔もあったのですが、闇を切り裂く光のイメージなので艶ありにしました。ここも含め、表4以外の表紙フォントは**筑紫Aオールド明朝**です。
+
+表4の文字はせいれいプレートからの引用です。本作の前提でもあります。「いる」と「いない」の狭間にしたかったので、黒地に黒文字を入れるために黒箔押しにしました。フォントは**白舟隷書**。
+
+その他の特徴としては、表4にサークルロゴ、背表紙に通し番号を入れました。  
+サークルロゴはコッホ曲線を組み合わせて作りました。
+
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E3%2582%25B3%25E3%2583%2583%25E3%2583%259B%25E6%259B%25B2%25E7%25B7%259A" 
+title="コッホ曲線 - Wikipedia" 
+class="embed-card embed-webcard" 
+scrolling="no" 
+frameborder="0" 
+style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
+loading="lazy">
+</iframe>
+<cite>
+<a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%83%E3%83%9B%E6%9B%B2%E7%B7%9A">ja.wikipedia.org</a>
+</cite>
+
+<figure>
+<img src="..\images\binding_enlighten\hyou2_asobigami.jpg" alt="表2, 遊び紙" />
+<figcaption>表2, 遊び紙</figcaption>
+</figure>
+
+内側はこんな感じです。**派手にキラキラ**。  
+遊び紙は紫の雲竜紙で、写真よりも濃い色です。表紙が**夜空**、遊び紙が**夜明けの空**のイメージで選びました。
+
+
+##### 天アンカット
+
+<figure>
+<img src="..\images\binding_enlighten\ten.jpg" alt="平積み本の天" />
+<figcaption>平積み本の天</figcaption>
+</figure>
+
+本の上部が不揃いなのは仕様です。
+
+ダメ元で天アンカットにできないか聞いてみたらやってもらえました。本来は折り丁で製本する際の仕様なので天アンカット風らしいですが。ちなみにページ数を**16の倍数**に合わせました。
+
+アンカット部分の出来にはかなり個体差があります。
+
+
+#### その他
+
+##### サイズ比較
+
+<figure>
+<img src="..\images\binding_enlighten\size.jpg" alt="四六判とのサイズ比較" />
+<figcaption>四六判とのサイズ比較</figcaption>
+</figure>
+
+左が四六判、右がB6判です。  
+四六判に一番近いサイズだったのでB6にしたのですが、比べると高さが結構違いますね。幅はほぼ同じでした。
+
+
+##### 扉
+
+<figure alt="日本語と英語の扉">
+<img src="..\images\binding_enlighten\tobira.jpg" width=49%/> <img src="..\images\binding_enlighten\tobira_eng.jpg"  width=46.7%/>
+<figcaption>日本語と英語の扉</figcaption>
+</figure>
+
+表紙以外にも英語タイトルをどこかに入れたかったので英語の扉を作りました。  
+本作は日本語タイトルより先に英語タイトルができています。ですが、あまりにもそのまますぎたのと、そのまますぎるが故に意味の幅が狭くなってしまうため、日本語訳(ある意味直訳と言えなくもない)をしました。  
+扉デザインは手持ちのハヤカワ文庫とアリスの洋書を参考にしました。
+
+
+##### エピグラフ
+
+<figure>
+<img src="..\images\binding_enlighten\epigraf.jpg" alt="エピグラフ(題辞)" />
+<figcaption>エピグラフ(題辞)</figcaption>
+</figure>
+
+たまに本の冒頭に載っているあれ。  
+1つ目をショウ、2つ目をウォロに対応させています(本文での登場順)。『新機関』の翻訳が岩波文庫版、『ローマ建国史』がラテン語のままなのはあえてです。
+
+
+##### 奥付と検印
+
+<figure>
+<img src="..\images\binding_enlighten\okuzuke.jpg" alt="奥付ページ" />
+<figcaption>奥付ページ</figcaption>
+</figure>
+
+検印ごっこがしたかった。  
+検印用紙(もどき)の枠はこちらのサイトのものをベースにして作りました。
+
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fframes-design.com%2Fhowtouse%2F" 
+title="FRAME Designの使い方 – デザイン枠専門サイトFRAME Design" 
+class="embed-card embed-webcard" 
+scrolling="no" 
+frameborder="0" 
+style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
+loading="lazy">
+</iframe>
+<cite>
+<a href="https://frames-design.com/howtouse/">frames-design.com</a>
+</cite>
+
+奥付のデザインも昔風にしました。フォントは**秀英にじみ明朝**です。
+
+一応、下の方に無断転載禁止と書いてあるのですが、戦利品報告とかは別に構わないので常識的な範囲を考えてください。
+
+
+### おまけ(C105当日)
+学会ポスター風のお品書き兼ポスター(A3)と学会の名札風の名札(学会で使った大きめ名札ケースしか家になかった)を作りました。
+
+お品書きに書いてある学振申請書パロディは冬コミに間に合わなかったのでそのうち書きます。
+
+<figure alt="ポスター(左)と名札(右)">
+<img src="..\images\binding_enlighten\poster.png" width=49%/> <img src="..\images\binding_enlighten\nafuda.png" width=46.9%/>
+<figcaption>ポスター(左)と名札(右)</figcaption>
+</figure>
+ 
