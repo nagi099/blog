@@ -162,43 +162,13 @@ Technical termを用いて言い換えると、恋愛的指向についてaroman
 ##### 先行研究
 初ネオロマンス作品として『遙か７』をプレイし始めた頃、八卦と八葉の性質についての考察記事（[照二朗 2020a](https://www.homeshika.work/entry/2020/07/13/235627)）を読みました。そのため、八葉の性質についての私の解釈はこの記事をベースとしています。本稿の内容の前提にもなっており、白虎の項だけでも読んでいただいた方が正直話が早いのですが、一応重要部分のみ後ほど引用します。
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.homeshika.work%2Fentry%2F2020%2F07%2F13%2F235627" 
-title="八葉デザインの「八卦象意」―『遙か』と日本文化の世界① - 湖底より愛とかこめて" 
-class="embed-card embed-blogcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://www.homeshika.work/entry/2020/07/13/235627">www.homeshika.work</a>
-</cite>
+[八葉デザインの「八卦象意」―『遙か』と日本文化の世界① - 湖底より愛とかこめて](https://www.homeshika.work/entry/2020/07/13/235627)
 
 また、天の白虎および天の白虎的な人物のサンプルとして後ほど『遙か７』の黒田長政と『FE風花雪月』のフェルディナントが登場します。彼らの性質についての考察としては、上述の八卦解釈記事と同サイトの以下の記事（照二朗 2020b,c）が分かりやすいです。本稿では必要な部分にしか言及しないので、２人の人物像を詳しく把握したい方はこちらをお読みください。本稿の考察とも一部リンクしています。
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.homeshika.work%2Fentry%2F2020%2F07%2F20%2F224534" 
-title="生者の掟―遙か７長政ルート感想 - 湖底より愛とかこめて" 
-class="embed-card embed-blogcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://www.homeshika.work/entry/2020/07/20/224534">www.homeshika.work</a>
-</cite>
+[生者の掟―遙か７長政ルート感想 - 湖底より愛とかこめて](https://www.homeshika.work/entry/2020/07/20/224534)
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.homeshika.work%2Fentry%2F2020%2F03%2F21%2F220437" 
-title="【Ⅺ 正義】聖キッホルの紋章―FE風花雪月とアルカナの元型⑦ - 湖底より愛とかこめて" 
-class="embed-card embed-blogcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://www.homeshika.work/entry/2020/03/21/220437">www.homeshika.work</a>
-</cite>
+[【Ⅺ 正義】聖キッホルの紋章―FE風花雪月とアルカナの元型⑦ - 湖底より愛とかこめて](https://www.homeshika.work/entry/2020/03/21/220437)
 
 ---
 
@@ -366,17 +336,7 @@ loading="lazy">
 
 私の「世界」概念の理解は「サージュ・コンチェルト」シリーズの世界観設定の影響を受けているので、あまり一般的でない可能性があります……。リンク先のページは本編未プレイでも問題なく読めるので、こちらを読んでいただくのが早いと思います。一応簡単に説明しておくと、「世界」を構成する次元を段階的に拡張し、最終的に無限大に飛ばします。これが「天」です（少なくとも私はそのような意味で用いている）。
 
-<iframe src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fwww.genomirai.com%2FWorldSettingDocument%2Findex.php%3F%25E6%25AC%25A1%25E5%2585%2583%25E8%25AB%2596" 
-title="次元論 - PukiWiki" 
-class="embed-card embed-webcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="http://www.genomirai.com/WorldSettingDocument/index.php?%E6%AC%A1%E5%85%83%E8%AB%96">www.genomirai.com</a>
-</cite>
+[次元論 - SurgeConcerto WorldSettingDocuments](http://www.genomirai.com/WorldSettingDocument/index.php?%E6%AC%A1%E5%85%83%E8%AB%96)
 
 以下では個別事例を通して天命について考えていきます。
 
@@ -569,17 +529,7 @@ loading="lazy">
 
 スイはステージ衣装が藤モチーフになっています。なので、スイ本人というよりは歌姫としてのスイが藤の人です。リンク先からステージ衣装版のキャラデザが見れます。
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.nintendo.com%2Fjp%2Fswitch%2Faq2fa%2Fcharacter%2F05.html" 
-title="バディミッション BOND : スイ | Nintendo Switch | 任天堂" 
-class="embed-card embed-webcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://www.nintendo.com/jp/switch/aq2fa/character/05.html">www.nintendo.com</a>
-</cite>
+[バディミッション BOND : スイ | Nintendo Switch | 任天堂](https://www.nintendo.com/jp/switch/aq2fa/character/05.html)
 
 スイの藤も長政の藤と近い性質を表していると考えられます。人々を集め、その心をつなぐ、という性質です。スイは歌によってそれを成し遂げます。また、『バディミ』の主題歌とスイの歌唱パートは歌手が同じであり、その点においてスイは本作を象徴する人物です。スイの藤の意味は『バディミ』のテーマでもあります。そこにおいては、人々のつながりによって未来を切り拓くことができると述べられています。
 
@@ -616,7 +566,7 @@ loading="lazy">
 [^28]: これ「存在」じゃないですか？
 
 <figure>
-<img src="..\images\WhereTheLightIs\fuji.jpg" alt="藤の花（2024年4月撮影）" />
+<img src="..\images\2024-05-22-WhereTheLightIs\fuji.jpg" alt="藤の花（2024年4月撮影）" />
 <figcaption>藤の花（2024年4月撮影）</figcaption>
 </figure>
 
@@ -629,7 +579,7 @@ loading="lazy">
 C105にサークル参加してきました。  
 頒布した同人誌の概要はこちら。  
 
-[C105新刊『光を灯すために』作成記録](binding_enlighten.md)
+[C105新刊『光を灯すために』作成記録](2025-01-03-binding_enlighten.md)
 
 
 ### 主要参考文献

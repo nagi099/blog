@@ -1,10 +1,10 @@
 冬コミ(C105)新刊としてポケモンLEGENDSアルセウスの小説同人誌を作りました。  
 その内容の紹介と組版・特殊装丁についての記事です。前回記事で冬コミ目指すとは言いましたが、本当に出せるとは正直思っていなかった……
 
-前回↓
+前回↓  
 [「光」の在り処——『遙かなる時空の中で』における「天の白虎」と人間への信頼について][wherethelightis]
 
-[wherethelightis]: WhereTheLightIs.md
+[wherethelightis]: 2024-05-22-WhereTheLightIs.md
 
 **目次**
 - [内容](#内容)
@@ -32,31 +32,11 @@ LEGENDSアルセウスの二次創作です。メインキャラはショウ(主
 ほぼ思想の話しかしていないため非常に読者を選びます。[1つ前の記事][wherethelightis]もそうですが、怪文書以外の文章を書く気がない(面倒くさがり)。  
 pixivに置いてある1話目(またはサンプル)を読めば合う合わないは分かると思います。
 
-Web再録↓
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.pixiv.net%2Fnovel%2Fseries%2F10513019" 
-title="「光を灯すために」/「流雪」のシリーズ [pixiv]" 
-class="embed-card embed-webcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://www.pixiv.net/novel/series/10513019">www.pixiv.net</a>
-</cite>
+Web再録↓  
+[「光を灯すために」/「流雪」のシリーズ [pixiv]](https://www.pixiv.net/novel/series/10513019)
 
-同人誌通販↓
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fkazahanalib.booth.pm%2Fitems%2F6394338" 
-title="光を灯すために - 風花文庫 - BOOTH" 
-class="embed-card embed-webcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://kazahanalib.booth.pm/items/6394338">kazahanalib.booth.pm</a>
-</cite>
+同人誌通販↓  
+[光を灯すために - 風花文庫 - BOOTH](https://kazahanalib.booth.pm/items/6394338)
 
 
 ### 本の仕様
@@ -64,29 +44,9 @@ loading="lazy">
 #### 印刷所
 **ブロス**です。この辺を参考にしました。
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fumaisulog.com%2Fprint-for-novel%2F" 
-title="小説向き！おすすめ同人印刷所9選【文庫／新書／B6／A5サイズ】" 
-class="embed-card embed-webcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://umaisulog.com/print-for-novel/">umaisulog.com</a>
-</cite>
+[小説向き！おすすめ同人印刷所9選【文庫／新書／B6／A5サイズ】](https://umaisulog.com/print-for-novel/)
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Fkisaki_dojin%2Fn%2Fn68e159323684" 
-title="小説同人誌を初めて作る方へのアドバイス集｜紀咲" 
-class="embed-card embed-webcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://note.com/kisaki_dojin/n/n68e159323684">note.com</a>
-</cite>
+[小説同人誌を初めて作る方へのアドバイス集｜紀咲](https://note.com/kisaki_dojin/n/n68e159323684)
 
 同人誌を作るのは初めてだったので比較対象がないのですが、特殊装丁や原稿作成など細々と相談に乗っていただけてよかったです。
 
@@ -109,7 +69,10 @@ loading="lazy">
 - 和文フォント：筑紫明朝
 - 欧文フォント：筑紫Aオールド明朝
 
-![本文](..\images\binding_enlighten\honbun.jpg)
+<figure>
+<img src="..\images\2025-01-03-binding_enlighten\honbun.jpg" alt="本文" />
+<figcaption>本文</figcaption>
+</figure>
 
 行間は文字サイズの1.7~1.8倍を目安に設定しました。文字サイズは割と大きめだったので13 Qの方がよかったかなと思います。  
 ギチギチに詰めたい場合は行数を1行、行文字数を2~4文字程度なら増やせそうです。読みやすさのためにはほどほどにした方がいいと思いますが。
@@ -118,29 +81,9 @@ loading="lazy">
 
 組版の決定にあたっては、以下のページと手持ちの本の実測結果を参考にしました。
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Ftono_yoru%2Fn%2Fncbb24eb1b025" 
-title="B6小説同人誌を推したい／組版・小ネタ集・制作レポ｜よる" 
-class="embed-card embed-webcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://note.com/tono_yoru/n/ncbb24eb1b025">note.com</a>
-</cite>
+[B6小説同人誌を推したい／組版・小ネタ集・制作レポ｜よる](https://note.com/tono_yoru/n/ncbb24eb1b025)
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fprivatter.net%2Fp%2F1684256" 
-title="小説本をつくるなら - Privatter" 
-class="embed-card embed-webcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://privatter.net/p/1684256">privatter.net</a>
-</cite>
+[小説本をつくるなら - Privatter](https://privatter.net/p/1684256)
 
 
 #### 装丁
@@ -154,12 +97,12 @@ loading="lazy">
 ##### 表紙と遊び紙
 
 <figure alt="表1, 4">
-<img src="..\images\binding_enlighten\hyou1.jpg" width=49%/> <img src="..\images\binding_enlighten\hyou4.jpg" width=49%/>
+<img src="..\images\2025-01-03-binding_enlighten\hyou1.jpg" width=49%/> <img src="..\images\2025-01-03-binding_enlighten\hyou4.jpg" width=49%/>
 <figcaption>表1, 4</figcaption>
 </figure>
 
 <figure>
-<img src="..\images\binding_enlighten\se.jpg" alt="背表紙" />
+<img src="..\images\2025-01-03-binding_enlighten\se.jpg" alt="背表紙" />
 <figcaption>背表紙</figcaption>
 </figure>
 
@@ -178,20 +121,10 @@ loading="lazy">
 その他の特徴としては、表4にサークルロゴ、背表紙に通し番号を入れました。  
 サークルロゴはコッホ曲線を組み合わせて作りました。
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E3%2582%25B3%25E3%2583%2583%25E3%2583%259B%25E6%259B%25B2%25E7%25B7%259A" 
-title="コッホ曲線 - Wikipedia" 
-class="embed-card embed-webcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%83%E3%83%9B%E6%9B%B2%E7%B7%9A">ja.wikipedia.org</a>
-</cite>
+[コッホ曲線 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%83%E3%83%9B%E6%9B%B2%E7%B7%9A)
 
 <figure>
-<img src="..\images\binding_enlighten\hyou2_asobigami.jpg" alt="表2, 遊び紙" />
+<img src="..\images\2025-01-03-binding_enlighten\hyou2_asobigami.jpg" alt="表2, 遊び紙" />
 <figcaption>表2, 遊び紙</figcaption>
 </figure>
 
@@ -202,7 +135,7 @@ loading="lazy">
 ##### 天アンカット
 
 <figure>
-<img src="..\images\binding_enlighten\ten.jpg" alt="平積み本の天" />
+<img src="..\images\2025-01-03-binding_enlighten\ten.jpg" alt="平積み本の天" />
 <figcaption>平積み本の天</figcaption>
 </figure>
 
@@ -218,7 +151,7 @@ loading="lazy">
 ##### サイズ比較
 
 <figure>
-<img src="..\images\binding_enlighten\size.jpg" alt="四六判とのサイズ比較" />
+<img src="..\images\2025-01-03-binding_enlighten\size.jpg" alt="四六判とのサイズ比較" />
 <figcaption>四六判とのサイズ比較</figcaption>
 </figure>
 
@@ -229,7 +162,7 @@ loading="lazy">
 ##### 扉
 
 <figure alt="日本語と英語の扉">
-<img src="..\images\binding_enlighten\tobira.jpg" width=49%/> <img src="..\images\binding_enlighten\tobira_eng.jpg"  width=46.7%/>
+<img src="..\images\2025-01-03-binding_enlighten\tobira.jpg" width=49%/> <img src="..\images\2025-01-03-binding_enlighten\tobira_eng.jpg"  width=46.7%/>
 <figcaption>日本語と英語の扉</figcaption>
 </figure>
 
@@ -241,7 +174,7 @@ loading="lazy">
 ##### エピグラフ
 
 <figure>
-<img src="..\images\binding_enlighten\epigraf.jpg" alt="エピグラフ(題辞)" />
+<img src="..\images\2025-01-03-binding_enlighten\epigraf.jpg" alt="エピグラフ(題辞)" />
 <figcaption>エピグラフ(題辞)</figcaption>
 </figure>
 
@@ -252,24 +185,14 @@ loading="lazy">
 ##### 奥付と検印
 
 <figure>
-<img src="..\images\binding_enlighten\okuzuke.jpg" alt="奥付ページ" />
+<img src="..\images\2025-01-03-binding_enlighten\okuzuke.jpg" alt="奥付ページ" />
 <figcaption>奥付ページ</figcaption>
 </figure>
 
 検印ごっこがしたかった。  
 検印用紙(もどき)の枠はこちらのサイトのものをベースにして作りました。
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fframes-design.com%2Fhowtouse%2F" 
-title="FRAME Designの使い方 – デザイン枠専門サイトFRAME Design" 
-class="embed-card embed-webcard" 
-scrolling="no" 
-frameborder="0" 
-style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" 
-loading="lazy">
-</iframe>
-<cite>
-<a href="https://frames-design.com/howtouse/">frames-design.com</a>
-</cite>
+[FRAME Designの使い方 – デザイン枠専門サイトFRAME Design](https://frames-design.com/howtouse/)
 
 奥付のデザインも昔風にしました。フォントは**秀英にじみ明朝**です。
 
@@ -282,7 +205,7 @@ loading="lazy">
 お品書きに書いてある学振申請書パロディは冬コミに間に合わなかったのでそのうち書きます。
 
 <figure alt="ポスター(左)と名札(右)">
-<img src="..\images\binding_enlighten\poster.png" width=49%/> <img src="..\images\binding_enlighten\nafuda.png" width=46.9%/>
+<img src="..\images\2025-01-03-binding_enlighten\poster.png" width=49%/> <img src="..\images\2025-01-03-binding_enlighten\nafuda.png" width=46.9%/>
 <figcaption>ポスター(左)と名札(右)</figcaption>
 </figure>
  
